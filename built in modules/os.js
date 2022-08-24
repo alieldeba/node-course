@@ -6,7 +6,7 @@ console.log(os.userInfo());
 // system uptime in minutes
 console.log(os.uptime() / 60);
 
-// system uptime in minutes
+// operating system name
 console.log(os.type());
 
 // system release
